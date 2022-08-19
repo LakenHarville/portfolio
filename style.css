@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&family=Noto+Sans:wght@100&family=Warnes&display=swap');
+
+
+body{
+    background-color: black;
+    font-family: 'Noto Sans';
+}
+
+.center{
+    display: block;
+    
+    margin-right: auto;
+   
+}
+
+#mainheader{
+    color: lightseagreen;
+    text-align: center;
+    font-size: 60px; 
+}
+.top{
+    background-image: url('/');
+}
+h1{
+    color: khaki;
+    text-align: center;
+}
+h2{
+    color: khaki
+}
+p{
+    color: khaki;
+    text-align: center;
+}
+a{
+    color: white;
+}
+li{
+    color: khaki;
+}
